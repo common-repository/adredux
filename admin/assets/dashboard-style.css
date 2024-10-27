@@ -1,0 +1,11 @@
+/**
+ * Plugin's dashboard page styles.
+ */
+
+.adredux input[type="text"],
+.adredux textarea,
+.adredux select {
+	width: 90%;
+	max-width: 25rem;
+	clear: both;
+}
